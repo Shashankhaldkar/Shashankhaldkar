@@ -20,5 +20,5 @@
 ### 📫 Contact Me:
 
 - 📧 Email: shashankhaldkar@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/shashankhaldkar)
+- 💼 LinkedIn: [linkedin.com/in/Shashank Haldkar](https://linkedin.com/in/shashankhaldkar)
 ---
