@@ -16,7 +16,7 @@
 
 ### 🚀 Projects:
 
-- 🛒 [E-commerce Web App](https://github.com/yourusername/ecommerce-app) – MERN stack + Spring Boot backend integration
+- 🛒 [E-commerce Web App](https://github.com/yourusername/ecommerce-app) – MERN stack 
 ### 📫 Contact Me:
 
 - 📧 Email: shashankhaldkar@gmail.com  
